@@ -1,0 +1,22 @@
+body {
+    width: auto;
+    margin: auto;
+    margin-left: 10px;
+}
+input[type="submit"] {
+    display: inline-block;
+    margin-top: 10px;
+}
+#leftContent {
+    display: inline-block;
+    vertical-align: top;
+}
+
+#rightContent {
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 50px;
+}
+.twitter-timeline {
+    margin: auto;
+}
